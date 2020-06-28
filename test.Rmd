@@ -11,3 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 # Testing comment
 # Testing comment 2
 # Testing comment 3
+# Testing comment 4
